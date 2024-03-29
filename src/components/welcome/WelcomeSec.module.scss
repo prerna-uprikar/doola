@@ -1,0 +1,97 @@
+.welcomeSection{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: space-between;
+}
+
+.welcomeTextWrap{
+    position: relative;
+    left: 10%;
+}
+
+.imageNice{
+    height: 650px;
+}
+
+.dental{
+    font-size: 42px;
+}
+
+.bookBtn{
+    padding: 20px 60px;
+    margin: 20px 0px;
+    background: transparent;
+    border: 2px solid #ff724a;
+    border-color: #ff724a !important;
+    color: #ff724a !important;
+    background-color: transparent !important;
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+.cardSection{
+    width: 100%;
+}
+
+.missionText{
+    font-size: 58px;
+    text-align: center;
+}
+
+.MissionWrapper{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.MissonTextHead{
+    font-size: 40px;
+}
+
+.MissionWrapper{
+    padding: 30px 80px;
+}
+
+.para{
+    font-size: 18px;
+}
+
+.bgWrappeerr{
+    background-image: url('https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/96e7a16fa59159c99bf07639/dentist-with-dentistry-tools-isolatedf-min.jpg');
+    height: 700px;
+    display: flex;
+    align-items: center;
+    background-position: 50% 25%;
+}
+
+.aboutUs{
+    font-size: 35px;
+}
+
+.DentalCare{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.egestas{
+    display: flex;
+}
+
+.fgh{
+    width: 50%;
+    padding: 40px;
+}
+
+.peopleSecImg{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.ourTeamWrapper{
+    background-color: #ff724a;
+    text-align: center;
+    padding: 30px;
+}
